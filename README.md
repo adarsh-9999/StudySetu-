@@ -1,2 +1,13 @@
-# StudySetu-
-🚀 StudySetu — Class 10 Notes Hub 📚 ✨ UP Board (Hindi Medium) के लिए बेस्ट डिजिटल स्टडी प्लेटफॉर्म! 🔹 Chapter-wise Notes &amp; Important Questions 🔹 Live MCQ Practice Quizzes 🔹 Dark Mode &amp; Instant PDF Download 🎯 पढ़ाई अब होगी और भी आसान! 👨‍💻 Created by: Adarsh Patel
+# StudySetu
+🌟 StudySetu – आपका अपना डिजिटल स्टडी पार्टनर! 📚✨
+"पढ़ाई अब होगी और भी आसान और मजेदार!"
+क्या आप Class 10 (UP Board - Hindi Medium) की तैयारी कर रहे हैं और पढ़ाई को लेकर परेशान हैं? तो अब फिक्र छोड़िए, क्योंकि StudySetu ले कर आया है आपकी हर समस्या का समाधान!
+🚀 StudySetu पर आपको क्या मिलेगा?
+📖 All Subjects Notes: गणित, विज्ञान, सामाजिक विज्ञान, हिंदी और अंग्रेजी के Chapter-wise आसन नोट्स।
+⭐ Important Questions: परीक्षा में बार-बार पूछे जाने वाले सबसे महत्वपूर्ण प्रश्न।
+❓ MCQ Test/Quiz: अपनी तैयारी को परखने के लिए मजेदार और ट्रिकी क्विज़ टेस्ट!
+📥 PDF Download & Print: अपने नोट्स को एक क्लिक में PDF के रूप में सेव करें।
+🌙 Dark Mode: रात में पढ़ाई करते समय आँखों की सुरक्षा के लिए शानदार डार्क मोड।
+💡 "सफलता की एक नई सीढ़ी — StudySetu के साथ!"
+👨‍💻 Created with ❤️ by: Adarsh Patel
+🌐 Explore Now & Study Smart!
