@@ -1,1 +1,129 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudySetu - Your Study Platform</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        body {
+            background-color: #f4f6f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: linear-gradient(135deg, #6b11ff, #00d2ff);
+            color: white;
+            padding: 2rem 1rem;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .section-title {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #444;
+            border-bottom: 2px solid #6b11ff;
+            padding-bottom: 0.5rem;
+        }
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            transition: transform 0.3s ease;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        .card h3 {
+            color: #6b11ff;
+            margin-bottom: 0.75rem;
+        }
+        .card p {
+            color: #666;
+            font-size: 0.95rem;
+            margin-bottom: 1rem;
+        }
+        .btn {
+            display: inline-block;
+            background: #6b11ff;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: bold;
+        }
+        .btn:hover {
+            background: #520bcc;
+        }
+        footer {
+            text-align: center;
+            padding: 1.5rem;
+            background: #222;
+            color: white;
+            margin-top: 3rem;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
 
+    <header>
+        <h1>StudySetu 📚</h1>
+        <p>Aapka Apna Digital Study & Notes Platform</p>
+    </header>
+
+    <div class="container">
+        <h2 class="section-title">Available Subjects & Notes</h2>
+        
+        <div class="card-grid">
+            <div class="card">
+                <h3>Physics (Light & Optics)</h3>
+                <p>Explore handwritten notes, diagrams, and important formulas related to reflection, refraction, and optical instruments.</p>
+                <a href="#" class="btn">View Notes</a>
+            </div>
+
+            <div class="card">
+                <h3>Mathematics</h3>
+                <p>Practice essential problem sets, step-by-step solutions, and quick formula sheets for exams.</p>
+                <a href="#" class="btn">View Notes</a>
+            </div>
+
+            <div class="card">
+                <h3>General Science</h3>
+                <p>Important concepts, short notes, and revision material organized systematically for daily study.</p>
+                <a href="#" class="btn">View Notes</a>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 StudySetu. Created by Adarsh Patel.</p>
+    </footer>
+
+</body>
+</html>
